@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://edwinkuttappi.github.io/farmers/sitemap.xml
