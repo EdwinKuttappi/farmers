@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "CollegeBoard Big Idea 3.16 Notes",
+            "content": "CollegeBoard Unit: Simulations .",
+            "url": "https://edwinkuttappi.github.io/farmers/notes/2022/11/18/Simulations-Notes.html",
+            "relUrl": "/notes/2022/11/18/Simulations-Notes.html",
+            "date": " • Nov 18, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Simulations",
             "content": "What is a simulation? . A simulation is a way to simulate real-world environments to test safety or logistics. It&#39;s important to use random numbers, consider biases, and consider if a simulation is the best solution. . Why would you make a simulation? . A simulation is used to avoid running a experiment or calculation that might be dangerous or costly, by mocking the real-world circumstances digitally. . Is a simulation is the best solution? . However, using a simulation is not always the best solution, and you should consider if a simulation is the most cost and time effective solution. Simulations may not be suitable if the circumstances are very complicated or if an experiment would be easier to do. Consider the following, do you think a simulation or experiment/calculation would be the most effective? . An insurance company want to know the r | . How do you make a simulation? . What details need to be removed? .",
             "url": "https://edwinkuttappi.github.io/farmers/2022/11/17/lesson.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Hacks for simulations",
             "content": "Answer table . Comment on this blog post to submit your hacks. Fill out the table with your full name and the LETTER of each answer for every question. In order to receive any credit you must fill out the answer table according to the directions! Each question is worth .1 points. To get &gt;0.9/1 you can show your understanding by making a simple simulation in the area labeled extra. . Question Answer . Name(First+Last) | | . 1 | | . 2 | | . 3 | | . 4 | | . 5 | | . 6 | | . 7 | | . 8 | | . 9 | . Extra . Show your understanding with code(make a simple sim or something similar) here to get &gt;0.9/1 . . HOW QUESTIONS . Experiment/Calculation or Simulation . What is not (usually) a difference between a experiment and a simulation? A: Resources and time needed B: Factors considered C: Situation considered | For each situation answer: Would it make more sense to use a simulation or a experiment/calculation? . A car company needs to know how safe it&#39;s customers will be if it&#39;s new car crashes A: Simulation B: Experiment/calculation . | A environmental group wants an accurate guess on the impact the greenhouse effect will have on the environment A: Simulation B: Experiment/calculation . | A teacher want&#39;s to find the average score from a final A: Simulation B: Experiment/calculation . |",
             "url": "https://edwinkuttappi.github.io/farmers/2022/11/17/hacks.html",
@@ -22,27 +33,25 @@
         
     
   
-    
-        ,"post2": {
-            "title": "An Example Markdown Post",
-            "content": "Example Markdown Post . Basic setup . Jekyll requires blog post files to be named according to the following format: . YEAR-MONTH-DAY-filename.md . Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and filename is whatever file name you choose, to remind yourself what this post is about. .md is the file extension for markdown files. . The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “level 1 heading” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line ## File names above. . Basic formatting . You can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule: . . Lists . Here’s a list: . item 1 | item 2 | . And a numbered list: . item 1 | item 2 | Boxes and stuff . This is a quotation . . You can include alert boxes …and… . . You can include info boxes Images . . Code . You can format text and code per usual . General preformatted text: . # Do a thing do_thing() . Python code and output: . # Prints &#39;2&#39; print(1+1) . 2 . Formatting text as shell commands: . echo &quot;hello world&quot; ./some_script.sh --option &quot;value&quot; wget https://example.com/cat_photo1.png . Formatting text as YAML: . key: value - another_key: &quot;another value&quot; . Tables . Column 1 Column 2 . A thing | Another thing | . Tweetcards . Altair 4.0 is released! https://t.co/PCyrIOTcvvTry it with: pip install -U altairThe full list of changes is at https://t.co/roXmzcsT58 ...read on for some highlights. pic.twitter.com/vWJ0ZveKbZ . &mdash; Jake VanderPlas (@jakevdp) December 11, 2019 Footnotes . This is the footnote. &#8617; . |",
-            "url": "https://edwinkuttappi.github.io/farmers/markdown/2020/01/14/test-markdown-post.html",
-            "relUrl": "/markdown/2020/01/14/test-markdown-post.html",
-            "date": " • Jan 14, 2020"
-        }
-        
-    
-  
 
   
+  
+      ,"page0": {
+          "title": "Objectives",
+          "content": "",
+          "url": "https://edwinkuttappi.github.io/farmers/objectives/",
+          "relUrl": "/objectives/",
+          "date": ""
+      }
+      
   
 
   
       ,"page1": {
-          "title": "About Me",
+          "title": "Vocab",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
-          "url": "https://edwinkuttappi.github.io/farmers/about/",
-          "relUrl": "/about/",
+          "url": "https://edwinkuttappi.github.io/farmers/vocab/",
+          "relUrl": "/vocab/",
           "date": ""
       }
       
@@ -51,9 +60,6 @@
   
 
   
-  
-
-  
 
   
   
@@ -64,7 +70,6 @@
   
 
   
-  
 
   
   
@@ -73,7 +78,13 @@
   
 
   
-      ,"page11": {
+  
+
+  
+  
+
+  
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://edwinkuttappi.github.io/farmers/robots.txt",
