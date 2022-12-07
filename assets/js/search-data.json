@@ -3,6 +3,17 @@
     
         "post0": {
             "title": "CollegeBoard Big Idea 3.16 Notes",
+            "content": "CollegeBoard Unit: What is A Simulation? . The real world—the world outside the screen—is incredibly complex. Imagine an airplane flying through the air. There are multiple environmental factors affecting the plane: gravity, air density, wind shear, clouds, precipitation. Then there’s the plane itself: it’s shape, weight, wingspan, materials. So many factors affect how the plane will respond to its environment and how the environment will respond back. A flight simulator attempts to re-create the experience of piloting an airplane. Modern flight simulators use computer programs and 3D computer graphics to simulate the land and sky outside the plane. . . Flight simulators can include a large amount of detail but at the end of the day, they are still only a simulation. A simulation is an abstraction of an infinitely complex natural phenomena. It removes details that aren’t necessary or are too difficult to simulate. The level of abstraction in a simulation depends on why we’re creating it in the first place. When the goal of a simulation is to help a pilot train to fly jumbo jets around the world, the simulation must represent the flying experience in the way that best helps them prepare for the real deal. This Boeing 737 flight simulator includes a replica cockpit: . . The cockpit is mounted on a platform that can move and rotate in all directions. The simulation of the plane’s movement is an important detail for pilots-in-training, since it helps them deal with disorientation, motion sickness, and the effect of the motion on their ability to adjust the controls. . . A simulation can also aid in the design of a new jumbo jet. In that case, the simulation must capture enough physical details to help engineers find flaws in the design. Researchers developed this simulation of the air flow field around the landing gear of a Boeing 777: . . That flow field is a big reason why an airplane landing makes so much noise. Aircraft designers can use that same simulation with new designs to see whether their design will decrease or increase the noise—and hopefully select a design that decreases the noise! Simulations can be a source of entertainment. There are dozens of video games that simulate flight, with many of them revolving around combat or even a specific historical air battle. The video games may not be as accurate as the simulations used for pilot training, but they often include game mechanics that turn the simulation into a more game-like experience. . . Thanks to the wealth of satellite imagery now available, flight simulations can include highly realistic scenery. The realism improves the educational experience for a pilot in training and increases the entertainment value for a gamer. . . A simulation can recreate an aspect of our physical world, but at the same time, a simulation allows us to explore a phenomenon without the constraints of the real world. A pilot can crash without dying, a new plane can be tested out before a factory can make it, and a college student can get a taste of what it was like to fly a plane in World War I. Let’s explore more simulations and see how simulations helps us make advances in fields such as astronomy, physics, metereology, and medicine. .",
+            "url": "https://edwinkuttappi.github.io/farmers/notes/2022/12/06/notes.html",
+            "relUrl": "/notes/2022/12/06/notes.html",
+            "date": " • Dec 6, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "CollegeBoard Big Idea 3.16 Notes",
             "content": "CollegeBoard Unit: Simulations .",
             "url": "https://edwinkuttappi.github.io/farmers/notes/2022/11/18/Simulations-Notes.html",
             "relUrl": "/notes/2022/11/18/Simulations-Notes.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Simulations",
             "content": "What is a simulation? . A simulation is a way to simulate real-world environments to test safety or logistics. It&#39;s important to use random numbers, consider biases, and consider if a simulation is the best solution. . Why would you make a simulation? . A simulation is used to avoid running a experiment or calculation that might be dangerous or costly, by mocking the real-world circumstances digitally. . Is a simulation is the best solution? . However, using a simulation is not always the best solution, and you should consider if a simulation is the most cost and time effective solution. Simulations may not be suitable if the circumstances are very complicated or if an experiment would be easier to do. Consider the following, do you think a simulation or experiment/calculation would be the most effective? . An insurance company want to know the r | . How do you make a simulation? . What details need to be removed? .",
             "url": "https://edwinkuttappi.github.io/farmers/2022/11/17/lesson.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Hacks for simulations",
             "content": "Answer table . Comment on this blog post to submit your hacks. Fill out the table with your full name and the LETTER of each answer for every question. In order to receive any credit you must fill out the answer table according to the directions! Each question is worth .1 points. To get &gt;0.9/1 you can show your understanding by making a simple simulation in the area labeled extra. . Question Answer . Name(First+Last) | | . 1 | | . 2 | | . 3 | | . 4 | | . 5 | | . 6 | | . 7 | | . 8 | | . 9 | . Extra . Show your understanding with code(make a simple sim or something similar) here to get &gt;0.9/1 . . HOW QUESTIONS . Experiment/Calculation or Simulation . What is not (usually) a difference between a experiment and a simulation? A: Resources and time needed B: Factors considered C: Situation considered | For each situation answer: Would it make more sense to use a simulation or a experiment/calculation? . A car company needs to know how safe it&#39;s customers will be if it&#39;s new car crashes A: Simulation B: Experiment/calculation . | A environmental group wants an accurate guess on the impact the greenhouse effect will have on the environment A: Simulation B: Experiment/calculation . | A teacher want&#39;s to find the average score from a final A: Simulation B: Experiment/calculation . |",
             "url": "https://edwinkuttappi.github.io/farmers/2022/11/17/hacks.html",
