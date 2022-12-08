@@ -4,8 +4,15 @@ title: Vocab
 permalink: /vocab/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+# Unit 3 Section 16 Vocabulary
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+# Simulation vs Experiment
+<html>
+    <table>
+        <tr>
+            <td>Simulation</td>
+            <td>Experiment</td>
+        </tr>
+    </table>
+</html>
